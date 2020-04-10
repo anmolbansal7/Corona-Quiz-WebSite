@@ -36,7 +36,7 @@ let questions = [
         choiceD : "6 feet",
         correct : "D"
     },{
-        question : "A vaccine for the coronavirus will take at least to become available to the public.",
+        question : "A vaccine for the coronavirus will take at least ___ to become available to the public.",
         choiceA : "6 weeks",
         choiceB : "3 months",
         choiceC : "6 months",
